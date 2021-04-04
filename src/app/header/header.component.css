@@ -1,0 +1,7 @@
+ul.main-menu li {
+  cursor: pointer;
+  color: black;
+}
+ul.main-menu li:hover {
+  color: brown;
+}
